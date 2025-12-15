@@ -38,3 +38,9 @@ This repository contains the `.pbix` file and supporting dataset for easy explor
 * **Power BI Desktop** (latest version recommended)
 
 ---
+
+# demo pic (unorganized tiles)
+https://github.com/Arkojyoti27Dey/Practice_sales_analysis_repo_1/blob/main/Screenshot%202025-12-15%20144737.png
+
+# demo pic (organized tiles)
+https://github.com/Arkojyoti27Dey/Practice_sales_analysis_repo_1/blob/main/Screenshot%202025-12-15%20144757.png
